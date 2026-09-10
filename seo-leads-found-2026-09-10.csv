@@ -1,0 +1,9 @@
+brand,website,niche,google_rank,indexed,sitemap,schema_count,blog_posts,ai_cited_chatgpt,ai_cited_perplexity,seo_score,geo_score,leak
+Plum,plumgoodness.com,D2C Skincare,Page 1 (pos 4),300/500 (60%),Yes,3,25,Yes (pos 5),No,4,6,Ranks page 1 but not in Perplexity - GEO opportunity
+Propsoch,propsoch.club,Real Estate Platform,Page 3 (pos 28),40/150 (26%),No,0,5,No,No,9,10,"No sitemap, 0 schema, 5 blog posts, zero AI citations"
+Zouk,zouk.co.in,D2C Bags,Page 3 (pos 22),120/500 (24%),No,1,3,No,No,8,9,"No sitemap, only 24% indexed, no FAQ schema, not cited in AI"
+Dr Batra's,drbatras.com,Clinic,Page 2 (pos 12),80/200 (40%),Yes but blocked /blog/,2,12,No,No,7,8,"Robots blocks blog, no FAQ schema, not in Perplexity for 'best skin clinic Bangalore'"
+Adarsh Group,adarshdevelopers.com,Real Estate,Page 2 (pos 18),60/300 (20%),No,1,2,No,No,9,9,"No sitemap, 2 blog posts, no FAQ, not cited in ChatGPT for 'best builder Whitefield'"
+Just Herbs,justherbs.in,Skincare,Page 2 (pos 11),150/400 (37%),Yes,2,18,No,No,6,8,"37% indexed, no FAQ schema, not cited in AI"
+Bare Anatomy,bareanatomy.com,D2C Beauty,Page 2 (pos 15),90/250 (36%),Yes,2,8,No,No,7,8,"No transformation content, thin blog, no FAQ schema"
+Trading with CA,tradingwithca.com,Finance Coach,Page 2 (pos 20),30/100 (30%),No,1,6,No,No,8,9,"No sitemap, 2015 design, no FAQ, not cited for 'best trading course'"

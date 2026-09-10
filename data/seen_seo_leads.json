@@ -1,0 +1,623 @@
+{
+  "brands": {
+    "SEO_Brand_1156": {
+      "first_seen": "2026-09-10T09:38:08.963897",
+      "day": 1,
+      "website": "seobrand1156.com"
+    },
+    "SEO_Brand_1536": {
+      "first_seen": "2026-09-10T09:38:08.963913",
+      "day": 1,
+      "website": "seobrand1536.com"
+    },
+    "SEO_Brand_2218": {
+      "first_seen": "2026-09-10T09:38:08.963918",
+      "day": 1,
+      "website": "seobrand2218.com"
+    },
+    "SEO_Brand_2856": {
+      "first_seen": "2026-09-10T09:38:08.963920",
+      "day": 1,
+      "website": "seobrand2856.com"
+    },
+    "SEO_Brand_0574": {
+      "first_seen": "2026-09-10T09:38:08.963923",
+      "day": 1,
+      "website": "seobrand0574.com"
+    },
+    "SEO_Brand_0874": {
+      "first_seen": "2026-09-10T09:38:08.963925",
+      "day": 1,
+      "website": "seobrand0874.com"
+    },
+    "SEO_Brand_1243": {
+      "first_seen": "2026-09-10T09:38:08.963929",
+      "day": 1,
+      "website": "seobrand1243.com"
+    },
+    "SEO_Brand_2700": {
+      "first_seen": "2026-09-10T09:38:08.963932",
+      "day": 1,
+      "website": "seobrand2700.com"
+    },
+    "SEO_Brand_1677": {
+      "first_seen": "2026-09-10T09:38:08.963934",
+      "day": 1,
+      "website": "seobrand1677.com"
+    },
+    "SEO_Brand_1633": {
+      "first_seen": "2026-09-10T09:38:08.963937",
+      "day": 1,
+      "website": "seobrand1633.com"
+    },
+    "SEO_Brand_2993": {
+      "first_seen": "2026-09-10T09:38:08.963939",
+      "day": 1,
+      "website": "seobrand2993.com"
+    },
+    "SEO_Brand_1815": {
+      "first_seen": "2026-09-10T09:38:08.963943",
+      "day": 1,
+      "website": "seobrand1815.com"
+    },
+    "SEO_Brand_2057": {
+      "first_seen": "2026-09-10T09:38:08.963946",
+      "day": 1,
+      "website": "seobrand2057.com"
+    },
+    "SEO_Brand_2254": {
+      "first_seen": "2026-09-10T09:38:08.963948",
+      "day": 1,
+      "website": "seobrand2254.com"
+    },
+    "SEO_Brand_1429": {
+      "first_seen": "2026-09-10T09:38:08.963951",
+      "day": 1,
+      "website": "seobrand1429.com"
+    },
+    "SEO_Brand_1925": {
+      "first_seen": "2026-09-10T09:38:08.963953",
+      "day": 1,
+      "website": "seobrand1925.com"
+    },
+    "SEO_Brand_1340": {
+      "first_seen": "2026-09-10T09:38:08.963956",
+      "day": 1,
+      "website": "seobrand1340.com"
+    },
+    "SEO_Brand_1691": {
+      "first_seen": "2026-09-10T09:38:08.963958",
+      "day": 1,
+      "website": "seobrand1691.com"
+    },
+    "SEO_Brand_0591": {
+      "first_seen": "2026-09-10T09:38:08.963960",
+      "day": 1,
+      "website": "seobrand0591.com"
+    },
+    "SEO_Brand_2701": {
+      "first_seen": "2026-09-10T09:38:08.963963",
+      "day": 1,
+      "website": "seobrand2701.com"
+    },
+    "SEO_Brand_2244": {
+      "first_seen": "2026-09-10T09:38:08.963965",
+      "day": 1,
+      "website": "seobrand2244.com"
+    },
+    "SEO_Brand_1544": {
+      "first_seen": "2026-09-10T09:38:08.963967",
+      "day": 1,
+      "website": "seobrand1544.com"
+    },
+    "SEO_Brand_1122": {
+      "first_seen": "2026-09-10T09:38:08.963970",
+      "day": 1,
+      "website": "seobrand1122.com"
+    },
+    "SEO_Brand_0356": {
+      "first_seen": "2026-09-10T09:38:08.963973",
+      "day": 1,
+      "website": "seobrand0356.com"
+    },
+    "SEO_Brand_1435": {
+      "first_seen": "2026-09-10T09:38:08.963975",
+      "day": 1,
+      "website": "seobrand1435.com"
+    },
+    "SEO_Brand_2028": {
+      "first_seen": "2026-09-10T09:38:08.963977",
+      "day": 1,
+      "website": "seobrand2028.com"
+    },
+    "SEO_Brand_2352": {
+      "first_seen": "2026-09-10T09:38:08.963980",
+      "day": 1,
+      "website": "seobrand2352.com"
+    },
+    "SEO_Brand_2135": {
+      "first_seen": "2026-09-10T09:38:08.963982",
+      "day": 1,
+      "website": "seobrand2135.com"
+    },
+    "SEO_Brand_1763": {
+      "first_seen": "2026-09-10T09:38:08.963985",
+      "day": 1,
+      "website": "seobrand1763.com"
+    },
+    "SEO_Brand_0387": {
+      "first_seen": "2026-09-10T09:38:08.963987",
+      "day": 1,
+      "website": "seobrand0387.com"
+    },
+    "SEO_Brand_0497": {
+      "first_seen": "2026-09-10T09:38:08.963989",
+      "day": 1,
+      "website": "seobrand0497.com"
+    },
+    "SEO_Brand_1851": {
+      "first_seen": "2026-09-10T09:38:08.963992",
+      "day": 1,
+      "website": "seobrand1851.com"
+    },
+    "SEO_Brand_0877": {
+      "first_seen": "2026-09-10T09:38:08.963994",
+      "day": 1,
+      "website": "seobrand0877.com"
+    },
+    "SEO_Brand_0695": {
+      "first_seen": "2026-09-10T09:38:08.963997",
+      "day": 1,
+      "website": "seobrand0695.com"
+    },
+    "SEO_Brand_0833": {
+      "first_seen": "2026-09-10T09:38:08.963999",
+      "day": 1,
+      "website": "seobrand0833.com"
+    },
+    "SEO_Brand_0559": {
+      "first_seen": "2026-09-10T09:38:08.964002",
+      "day": 1,
+      "website": "seobrand0559.com"
+    },
+    "SEO_Brand_1223": {
+      "first_seen": "2026-09-10T09:38:08.964007",
+      "day": 1,
+      "website": "seobrand1223.com"
+    },
+    "SEO_Brand_1562": {
+      "first_seen": "2026-09-10T09:38:08.964010",
+      "day": 1,
+      "website": "seobrand1562.com"
+    },
+    "SEO_Brand_2618": {
+      "first_seen": "2026-09-10T09:38:08.964012",
+      "day": 1,
+      "website": "seobrand2618.com"
+    },
+    "SEO_Brand_0463": {
+      "first_seen": "2026-09-10T09:38:08.964015",
+      "day": 1,
+      "website": "seobrand0463.com"
+    },
+    "SEO_Brand_2611": {
+      "first_seen": "2026-09-10T09:38:08.964017",
+      "day": 1,
+      "website": "seobrand2611.com"
+    },
+    "SEO_Brand_0003": {
+      "first_seen": "2026-09-10T09:38:08.964020",
+      "day": 1,
+      "website": "seobrand0003.com"
+    },
+    "SEO_Brand_1378": {
+      "first_seen": "2026-09-10T09:38:08.964022",
+      "day": 1,
+      "website": "seobrand1378.com"
+    },
+    "SEO_Brand_0438": {
+      "first_seen": "2026-09-10T09:38:08.964025",
+      "day": 1,
+      "website": "seobrand0438.com"
+    },
+    "SEO_Brand_1316": {
+      "first_seen": "2026-09-10T09:38:08.964030",
+      "day": 1,
+      "website": "seobrand1316.com"
+    },
+    "SEO_Brand_0519": {
+      "first_seen": "2026-09-10T09:38:08.964032",
+      "day": 1,
+      "website": "seobrand0519.com"
+    },
+    "SEO_Brand_2285": {
+      "first_seen": "2026-09-10T09:38:08.964035",
+      "day": 1,
+      "website": "seobrand2285.com"
+    },
+    "SEO_Brand_1641": {
+      "first_seen": "2026-09-10T09:38:08.964037",
+      "day": 1,
+      "website": "seobrand1641.com"
+    },
+    "SEO_Brand_2995": {
+      "first_seen": "2026-09-10T09:38:08.964040",
+      "day": 1,
+      "website": "seobrand2995.com"
+    },
+    "SEO_Brand_1163": {
+      "first_seen": "2026-09-10T09:38:08.964042",
+      "day": 1,
+      "website": "seobrand1163.com"
+    },
+    "SEO_Brand_0431": {
+      "first_seen": "2026-09-10T09:38:09.021400",
+      "day": 2,
+      "website": "seobrand0431.com"
+    },
+    "SEO_Brand_2497": {
+      "first_seen": "2026-09-10T09:38:09.021429",
+      "day": 2,
+      "website": "seobrand2497.com"
+    },
+    "SEO_Brand_0423": {
+      "first_seen": "2026-09-10T09:38:09.021432",
+      "day": 2,
+      "website": "seobrand0423.com"
+    },
+    "SEO_Brand_2386": {
+      "first_seen": "2026-09-10T09:38:09.021434",
+      "day": 2,
+      "website": "seobrand2386.com"
+    },
+    "SEO_Brand_1249": {
+      "first_seen": "2026-09-10T09:38:09.021436",
+      "day": 2,
+      "website": "seobrand1249.com"
+    },
+    "SEO_Brand_0027": {
+      "first_seen": "2026-09-10T09:38:09.021437",
+      "day": 2,
+      "website": "seobrand0027.com"
+    },
+    "SEO_Brand_1828": {
+      "first_seen": "2026-09-10T09:38:09.021439",
+      "day": 2,
+      "website": "seobrand1828.com"
+    },
+    "SEO_Brand_2961": {
+      "first_seen": "2026-09-10T09:38:09.021440",
+      "day": 2,
+      "website": "seobrand2961.com"
+    },
+    "SEO_Brand_1587": {
+      "first_seen": "2026-09-10T09:38:09.021442",
+      "day": 2,
+      "website": "seobrand1587.com"
+    },
+    "SEO_Brand_0889": {
+      "first_seen": "2026-09-10T09:38:09.021443",
+      "day": 2,
+      "website": "seobrand0889.com"
+    },
+    "SEO_Brand_1487": {
+      "first_seen": "2026-09-10T09:38:09.021444",
+      "day": 2,
+      "website": "seobrand1487.com"
+    },
+    "SEO_Brand_0032": {
+      "first_seen": "2026-09-10T09:38:09.021445",
+      "day": 2,
+      "website": "seobrand0032.com"
+    },
+    "SEO_Brand_2392": {
+      "first_seen": "2026-09-10T09:38:09.021447",
+      "day": 2,
+      "website": "seobrand2392.com"
+    },
+    "SEO_Brand_0575": {
+      "first_seen": "2026-09-10T09:38:09.021448",
+      "day": 2,
+      "website": "seobrand0575.com"
+    },
+    "SEO_Brand_2032": {
+      "first_seen": "2026-09-10T09:38:09.021449",
+      "day": 2,
+      "website": "seobrand2032.com"
+    },
+    "SEO_Brand_0053": {
+      "first_seen": "2026-09-10T09:38:09.021450",
+      "day": 2,
+      "website": "seobrand0053.com"
+    },
+    "SEO_Brand_1485": {
+      "first_seen": "2026-09-10T09:38:09.021452",
+      "day": 2,
+      "website": "seobrand1485.com"
+    },
+    "SEO_Brand_2593": {
+      "first_seen": "2026-09-10T09:38:09.021453",
+      "day": 2,
+      "website": "seobrand2593.com"
+    },
+    "SEO_Brand_0409": {
+      "first_seen": "2026-09-10T09:38:09.021454",
+      "day": 2,
+      "website": "seobrand0409.com"
+    },
+    "SEO_Brand_0729": {
+      "first_seen": "2026-09-10T09:38:09.021455",
+      "day": 2,
+      "website": "seobrand0729.com"
+    },
+    "SEO_Brand_2819": {
+      "first_seen": "2026-09-10T09:38:09.021457",
+      "day": 2,
+      "website": "seobrand2819.com"
+    },
+    "SEO_Brand_2044": {
+      "first_seen": "2026-09-10T09:38:09.021458",
+      "day": 2,
+      "website": "seobrand2044.com"
+    },
+    "SEO_Brand_1014": {
+      "first_seen": "2026-09-10T09:38:09.021459",
+      "day": 2,
+      "website": "seobrand1014.com"
+    },
+    "SEO_Brand_2422": {
+      "first_seen": "2026-09-10T09:38:09.021460",
+      "day": 2,
+      "website": "seobrand2422.com"
+    },
+    "SEO_Brand_2812": {
+      "first_seen": "2026-09-10T09:38:09.021462",
+      "day": 2,
+      "website": "seobrand2812.com"
+    },
+    "SEO_Brand_0812": {
+      "first_seen": "2026-09-10T09:38:09.021465",
+      "day": 2,
+      "website": "seobrand0812.com"
+    },
+    "SEO_Brand_2779": {
+      "first_seen": "2026-09-10T09:38:09.021467",
+      "day": 2,
+      "website": "seobrand2779.com"
+    },
+    "SEO_Brand_2061": {
+      "first_seen": "2026-09-10T09:38:09.021468",
+      "day": 2,
+      "website": "seobrand2061.com"
+    },
+    "SEO_Brand_2802": {
+      "first_seen": "2026-09-10T09:38:09.021470",
+      "day": 2,
+      "website": "seobrand2802.com"
+    },
+    "SEO_Brand_2922": {
+      "first_seen": "2026-09-10T09:38:09.021471",
+      "day": 2,
+      "website": "seobrand2922.com"
+    },
+    "SEO_Brand_2982": {
+      "first_seen": "2026-09-10T09:38:09.021472",
+      "day": 2,
+      "website": "seobrand2982.com"
+    },
+    "SEO_Brand_2483": {
+      "first_seen": "2026-09-10T09:38:09.021473",
+      "day": 2,
+      "website": "seobrand2483.com"
+    },
+    "SEO_Brand_0946": {
+      "first_seen": "2026-09-10T09:38:09.021474",
+      "day": 2,
+      "website": "seobrand0946.com"
+    },
+    "SEO_Brand_1728": {
+      "first_seen": "2026-09-10T09:38:09.021476",
+      "day": 2,
+      "website": "seobrand1728.com"
+    },
+    "SEO_Brand_2087": {
+      "first_seen": "2026-09-10T09:38:09.021477",
+      "day": 2,
+      "website": "seobrand2087.com"
+    },
+    "SEO_Brand_0305": {
+      "first_seen": "2026-09-10T09:38:09.021478",
+      "day": 2,
+      "website": "seobrand0305.com"
+    },
+    "SEO_Brand_0023": {
+      "first_seen": "2026-09-10T09:38:09.021481",
+      "day": 2,
+      "website": "seobrand0023.com"
+    },
+    "SEO_Brand_2133": {
+      "first_seen": "2026-09-10T09:38:09.021483",
+      "day": 2,
+      "website": "seobrand2133.com"
+    },
+    "SEO_Brand_1741": {
+      "first_seen": "2026-09-10T09:38:09.021486",
+      "day": 2,
+      "website": "seobrand1741.com"
+    },
+    "SEO_Brand_1299": {
+      "first_seen": "2026-09-10T09:38:09.021487",
+      "day": 2,
+      "website": "seobrand1299.com"
+    },
+    "SEO_Brand_2181": {
+      "first_seen": "2026-09-10T09:38:09.021489",
+      "day": 2,
+      "website": "seobrand2181.com"
+    },
+    "SEO_Brand_1723": {
+      "first_seen": "2026-09-10T09:38:09.021490",
+      "day": 2,
+      "website": "seobrand1723.com"
+    },
+    "SEO_Brand_1517": {
+      "first_seen": "2026-09-10T09:38:09.021491",
+      "day": 2,
+      "website": "seobrand1517.com"
+    },
+    "SEO_Brand_2184": {
+      "first_seen": "2026-09-10T09:38:09.021492",
+      "day": 2,
+      "website": "seobrand2184.com"
+    },
+    "SEO_Brand_2049": {
+      "first_seen": "2026-09-10T09:38:09.021494",
+      "day": 2,
+      "website": "seobrand2049.com"
+    },
+    "SEO_Brand_1539": {
+      "first_seen": "2026-09-10T09:38:09.021495",
+      "day": 2,
+      "website": "seobrand1539.com"
+    },
+    "SEO_Brand_2621": {
+      "first_seen": "2026-09-10T09:38:09.021496",
+      "day": 2,
+      "website": "seobrand2621.com"
+    },
+    "SEO_Brand_2371": {
+      "first_seen": "2026-09-10T09:38:09.021497",
+      "day": 2,
+      "website": "seobrand2371.com"
+    },
+    "SEO_Brand_2025": {
+      "first_seen": "2026-09-10T09:38:09.021500",
+      "day": 2,
+      "website": "seobrand2025.com"
+    },
+    "SEO_Brand_1339": {
+      "first_seen": "2026-09-10T09:38:09.021501",
+      "day": 2,
+      "website": "seobrand1339.com"
+    }
+  },
+  "total_found": 100,
+  "daily_log": [
+    {
+      "day": 1,
+      "date": "2026-09-10",
+      "count": 50,
+      "total_so_far": 50,
+      "brands": [
+        "SEO_Brand_1156",
+        "SEO_Brand_1536",
+        "SEO_Brand_2218",
+        "SEO_Brand_2856",
+        "SEO_Brand_0574",
+        "SEO_Brand_0874",
+        "SEO_Brand_1243",
+        "SEO_Brand_2700",
+        "SEO_Brand_1677",
+        "SEO_Brand_1633",
+        "SEO_Brand_2993",
+        "SEO_Brand_1815",
+        "SEO_Brand_2057",
+        "SEO_Brand_2254",
+        "SEO_Brand_1429",
+        "SEO_Brand_1925",
+        "SEO_Brand_1340",
+        "SEO_Brand_1691",
+        "SEO_Brand_0591",
+        "SEO_Brand_2701",
+        "SEO_Brand_2244",
+        "SEO_Brand_1544",
+        "SEO_Brand_1122",
+        "SEO_Brand_0356",
+        "SEO_Brand_1435",
+        "SEO_Brand_2028",
+        "SEO_Brand_2352",
+        "SEO_Brand_2135",
+        "SEO_Brand_1763",
+        "SEO_Brand_0387",
+        "SEO_Brand_0497",
+        "SEO_Brand_1851",
+        "SEO_Brand_0877",
+        "SEO_Brand_0695",
+        "SEO_Brand_0833",
+        "SEO_Brand_0559",
+        "SEO_Brand_1223",
+        "SEO_Brand_1562",
+        "SEO_Brand_2618",
+        "SEO_Brand_0463",
+        "SEO_Brand_2611",
+        "SEO_Brand_0003",
+        "SEO_Brand_1378",
+        "SEO_Brand_0438",
+        "SEO_Brand_1316",
+        "SEO_Brand_0519",
+        "SEO_Brand_2285",
+        "SEO_Brand_1641",
+        "SEO_Brand_2995",
+        "SEO_Brand_1163"
+      ]
+    },
+    {
+      "day": 2,
+      "date": "2026-09-10",
+      "count": 50,
+      "total_so_far": 100,
+      "brands": [
+        "SEO_Brand_0431",
+        "SEO_Brand_2497",
+        "SEO_Brand_0423",
+        "SEO_Brand_2386",
+        "SEO_Brand_1249",
+        "SEO_Brand_0027",
+        "SEO_Brand_1828",
+        "SEO_Brand_2961",
+        "SEO_Brand_1587",
+        "SEO_Brand_0889",
+        "SEO_Brand_1487",
+        "SEO_Brand_0032",
+        "SEO_Brand_2392",
+        "SEO_Brand_0575",
+        "SEO_Brand_2032",
+        "SEO_Brand_0053",
+        "SEO_Brand_1485",
+        "SEO_Brand_2593",
+        "SEO_Brand_0409",
+        "SEO_Brand_0729",
+        "SEO_Brand_2819",
+        "SEO_Brand_2044",
+        "SEO_Brand_1014",
+        "SEO_Brand_2422",
+        "SEO_Brand_2812",
+        "SEO_Brand_0812",
+        "SEO_Brand_2779",
+        "SEO_Brand_2061",
+        "SEO_Brand_2802",
+        "SEO_Brand_2922",
+        "SEO_Brand_2982",
+        "SEO_Brand_2483",
+        "SEO_Brand_0946",
+        "SEO_Brand_1728",
+        "SEO_Brand_2087",
+        "SEO_Brand_0305",
+        "SEO_Brand_0023",
+        "SEO_Brand_2133",
+        "SEO_Brand_1741",
+        "SEO_Brand_1299",
+        "SEO_Brand_2181",
+        "SEO_Brand_1723",
+        "SEO_Brand_1517",
+        "SEO_Brand_2184",
+        "SEO_Brand_2049",
+        "SEO_Brand_1539",
+        "SEO_Brand_2621",
+        "SEO_Brand_2371",
+        "SEO_Brand_2025",
+        "SEO_Brand_1339"
+      ]
+    }
+  ]
+}
